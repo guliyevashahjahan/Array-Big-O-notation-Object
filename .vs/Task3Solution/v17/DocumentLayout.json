@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Task 1\\Array, Big O notation, Object\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D435A15D-CBB9-4AFD-BFFF-7E6882CE783C}|2024-05-15\\2024-05-15.csproj|c:\\users\\asus\\desktop\\task 1\\array, big o notation, object\\2024-05-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D435A15D-CBB9-4AFD-BFFF-7E6882CE783C}|2024-05-15\\2024-05-15.csproj|solutionrelative:2024-05-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Task 1\\Array, Big O notation, Object\\2024-05-15\\Program.cs",
+              "RelativeDocumentMoniker": "2024-05-15\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Task 1\\Array, Big O notation, Object\\2024-05-15\\Program.cs",
+              "RelativeToolTip": "2024-05-15\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:37:20.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

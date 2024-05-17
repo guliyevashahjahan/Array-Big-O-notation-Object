@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\bin\Debug\net8.0\2024-05-15.exe
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\bin\Debug\net8.0\2024-05-15.deps.json
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\bin\Debug\net8.0\2024-05-15.runtimeconfig.json
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\bin\Debug\net8.0\2024-05-15.dll
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\bin\Debug\net8.0\2024-05-15.pdb
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\obj\Debug\net8.0\2024-05-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\obj\Debug\net8.0\2024-05-15.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\obj\Debug\net8.0\2024-05-15.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\obj\Debug\net8.0\2024-05-15.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\obj\Debug\net8.0\2024-05-15.dll
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\obj\Debug\net8.0\refint\2024-05-15.dll
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\obj\Debug\net8.0\2024-05-15.pdb
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\obj\Debug\net8.0\2024-05-15.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Task 1\Array, Big O notation, Object\2024-05-15\obj\Debug\net8.0\ref\2024-05-15.dll
